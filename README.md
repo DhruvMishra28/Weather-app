@@ -4,3 +4,6 @@ A weather app made using OpenWeatherMap API in JavaScript. The app tells the cur
  Project Images :----
 
 ![Screenshot 2024-06-05 195114](https://github.com/DhruvMishra28/Weather-app/assets/152638380/ee92e15e-5c53-429f-b0df-281cc22db01c)
+
+
+Live demo :-- http://127.0.0.1:5500/
